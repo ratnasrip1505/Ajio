@@ -1,0 +1,7 @@
+pwd
+mkdir folder
+cd folder
+touch filenaame
+rmdir
+rm -rf
+cat filenme
